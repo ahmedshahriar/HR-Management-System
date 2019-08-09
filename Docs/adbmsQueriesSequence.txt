@@ -1,0 +1,16 @@
+create sequence user_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence role_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence log_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence dept_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence per_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence emp_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence trng_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
+create sequence sal_id_seq  increment by 1 start with 6 maxvalue 100 nocache nocycle
+
